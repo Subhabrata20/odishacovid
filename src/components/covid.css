@@ -1,0 +1,8 @@
+.startCard{
+    padding-left: 200px;
+}
+@media (prefers-reduced-motion: no-preference) {
+    .startCard {
+        padding-left: 15%;
+    }
+  }
